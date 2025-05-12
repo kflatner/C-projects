@@ -1,0 +1,14 @@
+C:\Users\Meg\Desktop\Programering\Rider\Oppgaver\Oppgave315D_count_Word\Oppgave315D_count_Word\bin\Debug\net9.0\Oppgave315D_count_Word.exe
+C:\Users\Meg\Desktop\Programering\Rider\Oppgaver\Oppgave315D_count_Word\Oppgave315D_count_Word\bin\Debug\net9.0\Oppgave315D_count_Word.deps.json
+C:\Users\Meg\Desktop\Programering\Rider\Oppgaver\Oppgave315D_count_Word\Oppgave315D_count_Word\bin\Debug\net9.0\Oppgave315D_count_Word.runtimeconfig.json
+C:\Users\Meg\Desktop\Programering\Rider\Oppgaver\Oppgave315D_count_Word\Oppgave315D_count_Word\bin\Debug\net9.0\Oppgave315D_count_Word.dll
+C:\Users\Meg\Desktop\Programering\Rider\Oppgaver\Oppgave315D_count_Word\Oppgave315D_count_Word\bin\Debug\net9.0\Oppgave315D_count_Word.pdb
+C:\Users\Meg\Desktop\Programering\Rider\Oppgaver\Oppgave315D_count_Word\Oppgave315D_count_Word\obj\Debug\net9.0\Oppgave315D_count_Word.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meg\Desktop\Programering\Rider\Oppgaver\Oppgave315D_count_Word\Oppgave315D_count_Word\obj\Debug\net9.0\Oppgave315D_count_Word.AssemblyInfoInputs.cache
+C:\Users\Meg\Desktop\Programering\Rider\Oppgaver\Oppgave315D_count_Word\Oppgave315D_count_Word\obj\Debug\net9.0\Oppgave315D_count_Word.AssemblyInfo.cs
+C:\Users\Meg\Desktop\Programering\Rider\Oppgaver\Oppgave315D_count_Word\Oppgave315D_count_Word\obj\Debug\net9.0\Oppgave315D_count_Word.csproj.CoreCompileInputs.cache
+C:\Users\Meg\Desktop\Programering\Rider\Oppgaver\Oppgave315D_count_Word\Oppgave315D_count_Word\obj\Debug\net9.0\Oppgave315D_count_Word.dll
+C:\Users\Meg\Desktop\Programering\Rider\Oppgaver\Oppgave315D_count_Word\Oppgave315D_count_Word\obj\Debug\net9.0\refint\Oppgave315D_count_Word.dll
+C:\Users\Meg\Desktop\Programering\Rider\Oppgaver\Oppgave315D_count_Word\Oppgave315D_count_Word\obj\Debug\net9.0\Oppgave315D_count_Word.pdb
+C:\Users\Meg\Desktop\Programering\Rider\Oppgaver\Oppgave315D_count_Word\Oppgave315D_count_Word\obj\Debug\net9.0\Oppgave315D_count_Word.genruntimeconfig.cache
+C:\Users\Meg\Desktop\Programering\Rider\Oppgaver\Oppgave315D_count_Word\Oppgave315D_count_Word\obj\Debug\net9.0\ref\Oppgave315D_count_Word.dll
