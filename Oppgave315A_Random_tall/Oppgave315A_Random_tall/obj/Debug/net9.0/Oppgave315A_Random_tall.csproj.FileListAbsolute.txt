@@ -1,0 +1,14 @@
+C:\Users\Meg\Desktop\Programering\Rider\Oppgaver\Oppgave315A_Random_tall\Oppgave315A_Random_tall\bin\Debug\net9.0\Oppgave315A_Random_tall.exe
+C:\Users\Meg\Desktop\Programering\Rider\Oppgaver\Oppgave315A_Random_tall\Oppgave315A_Random_tall\bin\Debug\net9.0\Oppgave315A_Random_tall.deps.json
+C:\Users\Meg\Desktop\Programering\Rider\Oppgaver\Oppgave315A_Random_tall\Oppgave315A_Random_tall\bin\Debug\net9.0\Oppgave315A_Random_tall.runtimeconfig.json
+C:\Users\Meg\Desktop\Programering\Rider\Oppgaver\Oppgave315A_Random_tall\Oppgave315A_Random_tall\bin\Debug\net9.0\Oppgave315A_Random_tall.dll
+C:\Users\Meg\Desktop\Programering\Rider\Oppgaver\Oppgave315A_Random_tall\Oppgave315A_Random_tall\bin\Debug\net9.0\Oppgave315A_Random_tall.pdb
+C:\Users\Meg\Desktop\Programering\Rider\Oppgaver\Oppgave315A_Random_tall\Oppgave315A_Random_tall\obj\Debug\net9.0\Oppgave315A_Random_tall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meg\Desktop\Programering\Rider\Oppgaver\Oppgave315A_Random_tall\Oppgave315A_Random_tall\obj\Debug\net9.0\Oppgave315A_Random_tall.AssemblyInfoInputs.cache
+C:\Users\Meg\Desktop\Programering\Rider\Oppgaver\Oppgave315A_Random_tall\Oppgave315A_Random_tall\obj\Debug\net9.0\Oppgave315A_Random_tall.AssemblyInfo.cs
+C:\Users\Meg\Desktop\Programering\Rider\Oppgaver\Oppgave315A_Random_tall\Oppgave315A_Random_tall\obj\Debug\net9.0\Oppgave315A_Random_tall.csproj.CoreCompileInputs.cache
+C:\Users\Meg\Desktop\Programering\Rider\Oppgaver\Oppgave315A_Random_tall\Oppgave315A_Random_tall\obj\Debug\net9.0\Oppgave315A_Random_tall.dll
+C:\Users\Meg\Desktop\Programering\Rider\Oppgaver\Oppgave315A_Random_tall\Oppgave315A_Random_tall\obj\Debug\net9.0\refint\Oppgave315A_Random_tall.dll
+C:\Users\Meg\Desktop\Programering\Rider\Oppgaver\Oppgave315A_Random_tall\Oppgave315A_Random_tall\obj\Debug\net9.0\Oppgave315A_Random_tall.pdb
+C:\Users\Meg\Desktop\Programering\Rider\Oppgaver\Oppgave315A_Random_tall\Oppgave315A_Random_tall\obj\Debug\net9.0\Oppgave315A_Random_tall.genruntimeconfig.cache
+C:\Users\Meg\Desktop\Programering\Rider\Oppgaver\Oppgave315A_Random_tall\Oppgave315A_Random_tall\obj\Debug\net9.0\ref\Oppgave315A_Random_tall.dll
