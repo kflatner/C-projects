@@ -1,0 +1,14 @@
+C:\Users\Meg\Desktop\Programering\Rider\Oppgaver\Oppgave323A.Tippekuppong\Oppgave323A.Tippekuppong\bin\Debug\net9.0\Oppgave323A.Tippekuppong.exe
+C:\Users\Meg\Desktop\Programering\Rider\Oppgaver\Oppgave323A.Tippekuppong\Oppgave323A.Tippekuppong\bin\Debug\net9.0\Oppgave323A.Tippekuppong.deps.json
+C:\Users\Meg\Desktop\Programering\Rider\Oppgaver\Oppgave323A.Tippekuppong\Oppgave323A.Tippekuppong\bin\Debug\net9.0\Oppgave323A.Tippekuppong.runtimeconfig.json
+C:\Users\Meg\Desktop\Programering\Rider\Oppgaver\Oppgave323A.Tippekuppong\Oppgave323A.Tippekuppong\bin\Debug\net9.0\Oppgave323A.Tippekuppong.dll
+C:\Users\Meg\Desktop\Programering\Rider\Oppgaver\Oppgave323A.Tippekuppong\Oppgave323A.Tippekuppong\bin\Debug\net9.0\Oppgave323A.Tippekuppong.pdb
+C:\Users\Meg\Desktop\Programering\Rider\Oppgaver\Oppgave323A.Tippekuppong\Oppgave323A.Tippekuppong\obj\Debug\net9.0\Oppgave323A.Tippekuppong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meg\Desktop\Programering\Rider\Oppgaver\Oppgave323A.Tippekuppong\Oppgave323A.Tippekuppong\obj\Debug\net9.0\Oppgave323A.Tippekuppong.AssemblyInfoInputs.cache
+C:\Users\Meg\Desktop\Programering\Rider\Oppgaver\Oppgave323A.Tippekuppong\Oppgave323A.Tippekuppong\obj\Debug\net9.0\Oppgave323A.Tippekuppong.AssemblyInfo.cs
+C:\Users\Meg\Desktop\Programering\Rider\Oppgaver\Oppgave323A.Tippekuppong\Oppgave323A.Tippekuppong\obj\Debug\net9.0\Oppgave323A.Tippekuppong.csproj.CoreCompileInputs.cache
+C:\Users\Meg\Desktop\Programering\Rider\Oppgaver\Oppgave323A.Tippekuppong\Oppgave323A.Tippekuppong\obj\Debug\net9.0\Oppgave323A.Tippekuppong.dll
+C:\Users\Meg\Desktop\Programering\Rider\Oppgaver\Oppgave323A.Tippekuppong\Oppgave323A.Tippekuppong\obj\Debug\net9.0\refint\Oppgave323A.Tippekuppong.dll
+C:\Users\Meg\Desktop\Programering\Rider\Oppgaver\Oppgave323A.Tippekuppong\Oppgave323A.Tippekuppong\obj\Debug\net9.0\Oppgave323A.Tippekuppong.pdb
+C:\Users\Meg\Desktop\Programering\Rider\Oppgaver\Oppgave323A.Tippekuppong\Oppgave323A.Tippekuppong\obj\Debug\net9.0\Oppgave323A.Tippekuppong.genruntimeconfig.cache
+C:\Users\Meg\Desktop\Programering\Rider\Oppgaver\Oppgave323A.Tippekuppong\Oppgave323A.Tippekuppong\obj\Debug\net9.0\ref\Oppgave323A.Tippekuppong.dll
